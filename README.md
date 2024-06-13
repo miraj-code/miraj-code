@@ -5,7 +5,7 @@
 🔭 I'm currently working on Autonomous Vehicles and other related AI projects<br>👯‍♂️ I’m looking to collaborate on AI projects<br>🌱 I’m currently learning Deep Machine Learning, Robotics, Vehicles and Aerial Vehicles, and Electronics<br>💬 Ask me about Python, Machine Learning, and Ideas<br>⚡ Does GitHub use GitHub to build GitHub? And most importantly, can GitHub rollback GitHub to fix GitHub when GitHub is down? 🤔😂<br>
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/getanehleub) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/getanehleub) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leul_getaneh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leul-getaneh) 
